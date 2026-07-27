@@ -32,4 +32,4 @@ had started the call there yourself.
 
 ## Contact
 
-Questions: bugpwr@gmail.com
+Questions: pavel@teramips.com
